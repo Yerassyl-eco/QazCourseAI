@@ -104,7 +104,7 @@ src/
 Проект автоматически деплоится через Lovable при каждом изменении.
 
 - **Preview:** ветка для разработки
-- **Production:** опубликованный сайт на `soft-spot-trunk.lovable.app`
+- **Production:** опубликованный сайт на `https://qazcourseai.lovable.app/`
 
 Изменения, запушенные в GitHub, автоматически появляются в Lovable, и наоборот.
 
